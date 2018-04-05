@@ -1,7 +1,3 @@
-#https://www.cs.rochester.edu/~nelson/courses/csc_173/genetic-algs/example.html
-#https://www.quora.com/How-do-I-convert-binary-to-decimal-using-simple-Python-commands
-#http://code.activestate.com/recipes/577944-random-binary-list/
-#https://gist.github.com/kevinwuhoo/2424597
 import math as m
 from random import *
 """
